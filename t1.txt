@@ -1,0 +1,50 @@
+1.creating tables in html
+<table>                 // table tag
+    <tr>                                              // tr for table row
+        <td>2010-2017</td>             // td for table data
+        <td>worked as lead google developer</td>
+    </tr>
+</table>
+
+** tr tag for table and td tag for the table data
+
+2. another important tags
+<thead>                // table head
+
+        </thead>
+
+        <tbody>           // table body
+
+        </tbody>
+        <tfoot>              // table foot
+            
+        </tfoot>
+
+3.for creating borders we can use border tag inside table tag
+<table  border="1">
+here pixels denotes how darker border you want
+
+
+4.for circle picture and writing besides it
+<table cellspacing="20">
+        <tr>
+            <td><img src="arya.png" width="200" alt="vishal yadav" ></td>
+            <td><h2>founder and CEO of Arya Group</h2>
+                <h3 style="color: blue;">and world's richest person </h3>
+                <h4 style="color: blue;">top industries in the world</h4></td>
+            
+        </tr>
+    </table>
+
+5. in the table cell spaceing is much important and can be achieved by
+***********<table cellspacing="20" >//// write inside the table tag (imp beacuse its not in the VSCODE)
+
+
+
+6.Creating  forms
+** there are three important tags
+<form>
+<label>       // create text
+<input>        // create button
+
+
